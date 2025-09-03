@@ -1,2 +1,2 @@
 # LSM6DSV80X_SPI
-Driver fyrir hröðunarskynjara
+Hardware test fyrir hröðunarskynjara
