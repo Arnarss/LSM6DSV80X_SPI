@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include "LSM6DSV80X_SPI.h"
 
-// ESP32-S3 pins (your wiring)
+// ESP32-S3 pins
 static constexpr int PIN_CS   = 10;
 static constexpr int PIN_MOSI = 11;
 static constexpr int PIN_SCK  = 12;
